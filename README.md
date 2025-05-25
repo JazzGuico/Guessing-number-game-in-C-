@@ -1,4 +1,4 @@
-This C++ program is a simple number guessing game. It starts by greeting the player, asking for their name, and checking if they want to play. If the player agrees, the program randomly picks a number between 1 and 100. The player then tries to guess the number, and the program gives hints like "too high" or "too low" after each guess. Once the correct number is guessed, it congratulates the player and shows how many attempts it took. If the player doesn't want to play or enters something invalid, it shows the appropriate message.
+This C++ program is a number guessing game. It asks for the player's name, checks if they want to play, then lets them guess a random number between 1 and 100, giving hints until they guess correctly.
 ------------------------------------------------------------------------------------------------------------------
 This C++ program is a simple interactive "Guess the Number" game that includes basic input/output, random number generation, and condition handling.
 
